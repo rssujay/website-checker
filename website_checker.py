@@ -17,7 +17,6 @@ import requests
 import queue
 
 # Constants
-INTERVAL_IN_SECONDS = 3600
 LOGGER_NAME= 'website_checker'
 
 # Initialization
